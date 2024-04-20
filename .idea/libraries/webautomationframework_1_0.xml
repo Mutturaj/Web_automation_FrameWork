@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="webautomationframework-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-maven-3.9.3-bin.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/Appium-Inspector-windows-2023.6.1.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/base64-2.3.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-4.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/platform-tools_r34.0.3-windows.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/rest-assured-5.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/simple-xml-safe-2.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-path-3.0.0-javadoc.jar!/io/restassured/path/json" />
+      <root url="jar://$USER_HOME$/Downloads/json-path-3.0.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.16.1" />
+      <root url="file://$USER_HOME$/Downloads/testng-6.8.5.jar" />
+      <root url="file://$USER_HOME$/Downloads/json-simple-1.1.1.jar" />
+      <root url="file://$USER_HOME$/Downloads/jar_files" />
+      <root url="file://$USER_HOME$/Downloads/jcommander-1.7.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+      <root url="file://$USER_HOME$/Downloads/stockbroking_web_automation-muttu-new-scriptdetails-1/stockbroking_web_automation-Muttu-new-Scriptdetails/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/stockbroking_web_automation-muttu-new-scriptdetails-1/stockbroking_web_automation-Muttu-new-Scriptdetails/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-4.16.1" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jcommander-1.7.jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/json-simple-1.1.1.jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.16.1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/testng-6.8.5.jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.16.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
